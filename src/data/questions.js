@@ -23,15 +23,15 @@
       correct: 0
     },
     {
-      question: "Хто з цих героїв є основним атрибутом 'Intelligence'?",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqtFirlYZLLBZ9tuR80x6_U7N3_s06hctgaA&s",
+      question: "Хто з цих героїв є основним атрибутом 'Agility'?",
+      image: "https://cdnb.artstation.com/p/assets/images/images/012/438/899/large/alexandra-bisson-002-agi.jpg?1534811827",
       options: [
         { text: "Invoker", img: "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/invoker.png" },
         { text: "Pudge", img: "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/pudge.png" },
         { text: "Sven", img: "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/sven.png" },
         { text: "Phantom Assassin", img: "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phantom_assassin.png" }
       ],
-      correct: 0
+      correct: 3
     },
     {
       question: "Як називається головний бос на карті Dota 2?",
@@ -109,5 +109,16 @@
         { text: "Offlane", img: "https://upload.wikimedia.org/wikipedia/ru/0/01/Gats%26Pak_berserk_manga.jpg" }
       ],
       correct: 2
+    },
+    {
+      question: "Який герой має найвищий базовий показник інтелекту?",
+      image: "https://cdnb.artstation.com/p/assets/images/images/012/438/901/large/alexandra-bisson-003-int.jpg?1534811832",
+      options: [
+        { text: "Arthas", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_fXnOJ7az_fyG26BJYz8RiFjufT8SHxWWmA&s" },
+        { text: "Oracle", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT98AAadECFZc7qIAvEFp9rfvqemST7xXWzqw&s" },
+        { text: "Rubick", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQazit6nSL7xEJvROtRDHt4H9kqt35YpsTz1g&s" },
+        { text: "Pugna", img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT11TtbuqgRyg3TsliyuBpenhimw4-Mv-1zYxe0Zr2ThqIhrdXk1t1fXYtn8-eQrW9FZk&usqp=CAU" }
+      ],
+      correct: 1
     }
   ];
