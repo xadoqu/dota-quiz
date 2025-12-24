@@ -9,7 +9,7 @@ export default function App() {
   const [isCreating, setIsCreating] = useState(false);
   const [isStarted, setIsStarted] = useState(false);
 
-  // Початковий стан форми для конструктора
+  
   const emptyQuestion = { 
     question: '', 
     image: 'https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/items/blink.png',

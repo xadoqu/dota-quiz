@@ -1,5 +1,5 @@
   export const quizData = [
-    // ... твої попередні питання ...
+
     {
       question: "Який герой має ультимативну здатність 'Chronosphere'?",
       image: "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/faceless_void_chronosphere.png",
